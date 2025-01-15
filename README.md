@@ -1,2 +1,2 @@
 # Spotify Clone
-using HTML CSS Bootsrap.
+using HTML, CSS, Bootstrap.
